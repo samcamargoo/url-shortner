@@ -39,7 +39,7 @@ cd url-shortener
 
 # Build and run
 ./mvnw spring-boot:run
-
+```
 The application will start at: http://localhost:8080
 
 ## API Endpoints
@@ -54,5 +54,6 @@ Request Body
 Response
  aLBIIHZeOaLBIIHZeO
 
-## Redirect to Original URL
-GET localhost:8080/api/urls/aLBIIHZeOaLBIIHZeO
+Redirect to Original URL
+GET localhost:8080/api/urls/aLBIIHZeOaLBIIHZeOThe application will start at: http://localhost:8080
+
