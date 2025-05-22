@@ -35,7 +35,7 @@ A simple, lightweight, and fast URL shortener built with **Java 21** and **Sprin
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/url-shortener.git
+git clone https://github.com/samcamargoo/url-shortner.git
 cd url-shortener
 
 # Build and run the application
