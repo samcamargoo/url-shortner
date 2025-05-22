@@ -39,3 +39,20 @@ cd url-shortener
 
 # Build and run
 ./mvnw spring-boot:run
+
+The application will start at: http://localhost:8080
+
+## API Endpoints
+➕ Create Short URL
+POST localhost:8080/api/urls
+
+Request Body
+{
+  "url": "validurl
+}
+
+Response
+ aLBIIHZeOaLBIIHZeO
+
+## Redirect to Original URL
+GET localhost:8080/api/urls/aLBIIHZeOaLBIIHZeO
